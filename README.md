@@ -1,1 +1,1 @@
-# Project is in Crpyto_predictor branch
+# Project is in Crpyto-Predictor branch
