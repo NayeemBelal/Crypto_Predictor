@@ -1,1 +1,1 @@
-# Project is in Crpyto-Predictor branch
+# Project is in main.py
