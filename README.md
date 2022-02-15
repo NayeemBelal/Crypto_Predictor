@@ -1,1 +1,1 @@
-# All Projects will be listed in their own branches.
+# Project is in Crpyto_predictor branch
